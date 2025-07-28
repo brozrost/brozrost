@@ -10,7 +10,7 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-%2320232a.svg?style=for-the-badge&logo=latex&logoColor=green)
 
 
-+ 📱 I'm currently working on <a href="https://github.com/scraptechguy/Peep">**Peep**</a>, <a href="https://github.com/scraptechguy/enkip">**enkip**</a> and <a href="https://github.com/scraptechguy/DAMIT">**DAMIT**</a>
++ 📱 I'm currently working on <a href="https://github.com/scraptechguy/Peep">**Peep**</a>, <a href="https://github.com/scraptechguy/DAMIT">**DAMIT**</a> and <a href="https://github.com/scraptechguy/DAMIT-ios">**DAMIT-ios**</a>
 + **Find me on...**
 
 <div align="center">
@@ -23,5 +23,6 @@
 
 <h3>Quick Overview</h3>
 
-[![scraptechguy's GitHub stats](https://github-readme-stats.vercel.app/api?username=scraptechguy&theme=codeSTACKr&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![scraptechguy's GitHub stats](https://github-readme-stats.vercel.app/api?username=scraptechguy&theme=codeSTACKr&include_all_commits=true&show_icons=true&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scraptechguy&layout=compact&theme=codeSTACKr)
 
