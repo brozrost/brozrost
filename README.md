@@ -1,11 +1,11 @@
 ![image 15](https://user-images.githubusercontent.com/75474651/212065322-61e8e0ee-2d88-434e-8c27-42d17a5a86a2.png)
 
-![Python](https://img.shields.io/badge/Python-%2320232a.svg?style=for-the-badge&logo=python&logoColor=yellow)
 ![iOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![App Store](https://img.shields.io/badge/AppStore-%2320232a.svg?style=for-the-badge&logo=appstore&logoColor=blue)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-%2320232a.svg?style=for-the-badge&logo=swift&logoColor=blue)
 ![Swift](https://img.shields.io/badge/Swift-%2320232a.svg?style=for-the-badge&logo=swift&logoColor=orange)
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-%2320232a.svg?style=for-the-badge&logo=raspberrypi&logoColor=red)
+![Python](https://img.shields.io/badge/Python-%2320232a.svg?style=for-the-badge&logo=python&logoColor=yellow)
 ![LaTeX](https://img.shields.io/badge/LaTeX-%2320232a.svg?style=for-the-badge&logo=latex&logoColor=green)
 
 
