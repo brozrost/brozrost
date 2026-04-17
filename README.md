@@ -23,6 +23,6 @@
 
 <h3>Quick Overview</h3>
 
-[![scraptechguy's GitHub stats](https://github-readme-stats.vercel.app/api?username=scraptechguy&theme=codeSTACKr&include_all_commits=true&show_icons=true&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scraptechguy&layout=compact&theme=codeSTACKr)
+[![brozrost's GitHub stats](https://github-readme-stats.vercel.app/api?username=brozrost&theme=codeSTACKr&include_all_commits=true&show_icons=true&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brozrost&layout=compact&theme=codeSTACKr)
 
