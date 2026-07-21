@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/rostislavbroz/" target=”_blank”> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogospng.org%2Fdownload%2Flinkedin%2Flogo-linkedin-icon-4096.png&f=1&nofb=1&ipt=193b59ee3b872294959332960c3c4124bbb228557d6dec67e53db477f299db7b&ipo=images" height="64"> </a>
   <a href="https://ctan.org/author/broz" target=”_blank”> <img src="https://github.com/user-attachments/assets/f5f1c7f2-6a12-4a78-9224-f4f253c77ef7" height="64"> </a>
   <a href="https://pypi.org/user/brozrost/" target=”_blank”> <img src="https://pypi.org/static/images/logo-large.516e776d.svg" height="64"> </a>
-  <a href="https://www.credly.com/users/scraptechguy/badges" target=”_blank”> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fresources.credly.com%2Fhs-fs%2Fhubfs%2FCredly_Logo_Orange_10-Inch.png%3Fwidth%3D3000%26name%3DCredly_Logo_Orange_10-Inch.png&f=1&nofb=1&ipt=12ab0f4a71c676f7e808970a56073e44a3a53f626b563eeef48e2b7e9b091927&ipo=images" height="64"> </a>
+  <a href="https://www.credly.com/users/brozrost/badges/credly" target=”_blank”> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fresources.credly.com%2Fhs-fs%2Fhubfs%2FCredly_Logo_Orange_10-Inch.png%3Fwidth%3D3000%26name%3DCredly_Logo_Orange_10-Inch.png&f=1&nofb=1&ipt=12ab0f4a71c676f7e808970a56073e44a3a53f626b563eeef48e2b7e9b091927&ipo=images" height="64"> </a>
 </div>
 
 <h3>Quick Overview</h3>
