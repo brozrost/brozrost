@@ -10,7 +10,7 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-%2320232a.svg?style=for-the-badge&logo=latex&logoColor=green)
 
 
-+ 📱 I'm currently working on <a href="https://github.com/scraptechguy/tvet">**tvet**</a>, <a href="https://github.com/scraptechguy/DAMIT">**DAMIT**</a> and <a href="https://github.com/scraptechguy/DAMIT-ios">**DAMIT-ios**</a>
++ 📱 I'm currently working on <a href="https://github.com/brozrost/damit">**DAMIT**</a>, <a href="https://github.com/brozrost/tvet">**tvet**</a>, and <a href="https://github.com/brozrost/Peep">**Peep**</a>
 + **Find me on...**
 
 <div align="center">
